@@ -1,1 +1,2 @@
-this i s[age2
+this is a page2
+this is added from location2
