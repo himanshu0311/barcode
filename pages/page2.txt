@@ -1,2 +1,2 @@
-this is page 2
+this is a page2
 added configuration from location1
