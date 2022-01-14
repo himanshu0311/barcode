@@ -1,1 +1,7 @@
 this is a page 1
+
+this_method_from_loc1()
+{
+statement;
+statement;
+}
