@@ -1,2 +1,4 @@
 this is a page2
 added configuration from location1
+
+this is a method which is used by our testers.
